@@ -56,10 +56,9 @@ def predict(prompt, language, audio_file_pth, mic_file_path, use_mic):
 title = "Romellfudi "
 
 description = """
-<b>Romell D.Z.(@romellfudi) Software Engineer, Business Intelligence Analist and Data Scientist</b>
 <a href="https://github.com/romellfudi">
 <img src="https://img.shields.io/badge/GITHUB-%23333333.svg?&style=for-the-badge&logo=android&logoColor=white" />    
-</a>
+</a><b>Romell D.Z.(@romellfudi) Software Engineer, Business Intelligence Analist and Data Scientist</b>
 </p>
 """
 
