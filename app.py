@@ -53,7 +53,7 @@ def predict(prompt, language, audio_file_pth, mic_file_path, use_mic):
     )
 
 
-title = "Romellfudi "
+title = "STS: Speech to Speech"
 
 description = """
 <a href="https://github.com/romellfudi">
