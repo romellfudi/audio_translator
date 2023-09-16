@@ -58,8 +58,7 @@ title = "Romellfudi "
 description = """
 Romell D.Z.(@romellfudi) Software Engineer, Business Intelligence Analist and Data Scientist
 <a href="https://github.com/romellfudi">
-<a href="https://android-arsenal.com/user/romellfudi">
-<img src="https://img.shields.io/badge/ANDROID_ARSENAL-%23333333.svg?&style=for-the-badge&logo=android&logoColor=green" />    
+<img src="https://img.shields.io/badge/GITHUB-%23333333.svg?&style=for-the-badge&logo=android&logoColor=white" />    
 </a>
 </p>
 """
