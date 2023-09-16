@@ -58,7 +58,9 @@ title = "Romellfudi "
 description = """
 Romell D.Z.(@romellfudi) Software Engineer, Business Intelligence Analist and Data Scientist
 <a href="https://github.com/romellfudi">
-<img style="margin-top: 0em; margin-bottom: 0em" src="https://bit.ly/3gLdBN6" alt="Github"></a>
+<a href="https://android-arsenal.com/user/romellfudi">
+<img src="https://img.shields.io/badge/ANDROID_ARSENAL-%23333333.svg?&style=for-the-badge&logo=android&logoColor=green" />    
+</a>
 </p>
 """
 
@@ -95,7 +97,6 @@ gr.Interface(
             label="Reference Audio",
             info="Click on the ✎ button to upload your own target speaker audio",
             type="filepath",
-            value="examples/female.wav",
         ),
         gr.Audio(source="microphone",
                  type="filepath",
